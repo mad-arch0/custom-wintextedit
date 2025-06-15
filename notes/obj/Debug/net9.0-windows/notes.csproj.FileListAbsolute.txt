@@ -1,0 +1,14 @@
+C:\ME\Projects\notes\bin\Debug\net9.0-windows\notes.exe
+C:\ME\Projects\notes\bin\Debug\net9.0-windows\notes.deps.json
+C:\ME\Projects\notes\bin\Debug\net9.0-windows\notes.runtimeconfig.json
+C:\ME\Projects\notes\bin\Debug\net9.0-windows\notes.dll
+C:\ME\Projects\notes\bin\Debug\net9.0-windows\notes.pdb
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.AssemblyInfoInputs.cache
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.AssemblyInfo.cs
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.csproj.CoreCompileInputs.cache
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.dll
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\refint\notes.dll
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.pdb
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\notes.genruntimeconfig.cache
+C:\ME\Projects\notes\obj\Debug\net9.0-windows\ref\notes.dll

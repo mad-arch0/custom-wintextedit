@@ -1,0 +1,10 @@
+{
+  "FontFamily": "Cascadia Mono",
+  "FontSize": 13,
+  "BackColor": "#1e1e1e",
+  "ForeColor": "#d4d4d4",
+  "TreeBackColor": "#262626",
+  "TreeForeColor": "#d4d4d4",
+  "MenuBackColor": "#262626",
+  "MenuForeColor": "#d4d4d4"
+}
